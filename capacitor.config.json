@@ -1,0 +1,8 @@
+{
+  "appId": "com.flaxxy.musicx",
+  "appName": "Flaxxy MusicX",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
